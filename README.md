@@ -1,6 +1,6 @@
 # dicee
 
-A new Flutter project.
+A Dice Game 
 
 ## Getting Started
 
